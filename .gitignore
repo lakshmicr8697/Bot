@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+.venv/
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face cache & models
+.cache/
+models/
+*.safetensors
+pytorch_model.bin
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
