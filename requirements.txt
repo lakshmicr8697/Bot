@@ -1,0 +1,6 @@
+discord.py
+transformers
+torch
+pillow
+python-dotenv
+huggingface-hub
